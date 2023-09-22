@@ -1,2 +1,2 @@
-<form action="/action_page.php" 
+<form action="https://e.tsi.lv/user/profile.php?id=11584&name=mihails&surname=prihodjko&age=2002&faculty" 
 method="get">
