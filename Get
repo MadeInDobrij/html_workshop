@@ -1,2 +1,5 @@
-<form action="https://e.tsi.lv/user/profile.php?id=11584&name=mihails&surname=prihodjko&age=2002&faculty" 
-method="get">
+#<form action="https://e.tsi.lv/user/profile.php?id=11584&name=&surname=&age=&faculty=" 
+#method="get">
+
+<form action="https://e.tsi.lv/user/profile.php?id=11584{JSON.stringify({name=&surname=&age=&id=&faculty=})}" 
+method="post">
